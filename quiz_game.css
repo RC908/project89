@@ -9,3 +9,18 @@ body {
 input {
     background-color: rgb(255, 232, 232);
 }
+
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #AA4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+#check {
+    background-color: lightgreen;
+    border-radius: 12px;
+}
