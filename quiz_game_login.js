@@ -6,5 +6,5 @@ function addUser()
 
     localStorage.setItem("P1Name", player1Name);
     localStorage.setItem("P2Name", player2Name);
-    window.location("quiz_game_page.html");
+    window.location = "quiz_game_page.html";
 }
